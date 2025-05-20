@@ -1,6 +1,6 @@
 {
-    "name": "Tetika",
-    "short_name": "Tetika",
+    "name": "tetika",
+    "short_name": "tetika",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",

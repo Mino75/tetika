@@ -1,8 +1,8 @@
 // service-worker.js
 
 // Generate a unique cache name based on the current timestamp.
-const LIVE_CACHE = 'tabilao-v1';
-const TEMP_CACHE = 'tabilao-temp-v1';
+const LIVE_CACHE = 'tetika-v1';
+const TEMP_CACHE = 'tetika-temp-v1';
 
 const ASSETS = [
   '/',
