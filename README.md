@@ -1,2 +1,2 @@
-# yapishu
-Character calligraphy Offline node PWA
+# tetika
+Tetika RTS
