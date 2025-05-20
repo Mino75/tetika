@@ -1,0 +1,28 @@
+[
+  { "language": "zh", "level_tag": "HSK1", "standard_level": "A1" },
+  { "language": "zh", "level_tag": "HSK2", "standard_level": "A2" },
+  { "language": "zh", "level_tag": "HSK3", "standard_level": "B1" },
+  { "language": "zh", "level_tag": "HSK4", "standard_level": "B2" },
+  { "language": "zh", "level_tag": "HSK5", "standard_level": "C1" },
+  { "language": "zh", "level_tag": "HSK6", "standard_level": "C2" },
+
+  { "language": "ja", "level_tag": "JLPT_N5", "standard_level": "A1" },
+  { "language": "ja", "level_tag": "JLPT_N4", "standard_level": "A2" },
+  { "language": "ja", "level_tag": "JLPT_N3", "standard_level": "B1" },
+  { "language": "ja", "level_tag": "JLPT_N2", "standard_level": "B2" },
+  { "language": "ja", "level_tag": "JLPT_N1", "standard_level": "C1" },
+
+  { "language": "ru", "level_tag": "A1", "standard_level": "A1" },
+  { "language": "ru", "level_tag": "A2", "standard_level": "A2" },
+  { "language": "ru", "level_tag": "B1", "standard_level": "B1" },
+  { "language": "ru", "level_tag": "B2", "standard_level": "B2" },
+  { "language": "ru", "level_tag": "C1", "standard_level": "C1" },
+  { "language": "ru", "level_tag": "C2", "standard_level": "C2" },
+
+  { "language": "mg", "level_tag": "A1", "standard_level": "A1" },
+  { "language": "mg", "level_tag": "A2", "standard_level": "A2" },
+  { "language": "mg", "level_tag": "B1", "standard_level": "B1" },
+  { "language": "mg", "level_tag": "B2", "standard_level": "B2" },
+  { "language": "mg", "level_tag": "C1", "standard_level": "C1" },
+  { "language": "mg", "level_tag": "C2", "standard_level": "C2" }
+]
